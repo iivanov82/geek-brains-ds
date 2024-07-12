@@ -25,3 +25,5 @@ if a1 + b1 + c1 == a2 + b2 + c2:
     print('yes')
 else:
     print('no')
+
+    
